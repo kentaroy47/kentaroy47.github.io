@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Kentaro Yoshioka"
-description              : &description "personal description"
+description              : &description "Hardware researcher"
 url                      : https://kentaroy47.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kentaroy47/kentaroy47.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kentaro Yoshioka"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "ex. Stanford Visiting Scholar. I'm a Ph.D Hardware Researcher who make and use LiDARs."
   location         : "Tokyo/Japan"
   employer         : "Stanford Univ. Visiting Scholar"
   pubmed           : 
