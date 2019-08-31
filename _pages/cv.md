@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronical Engineering, Keio University, Japan (2012)
+* M.S. in Electronical Engineering,, Keio University, Japan (2014)
+* Ph.D in Electronical Engineering, Keio University, Japan (2019)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2016: ADC Designs
+  * Toshiba
+  * Lead ADC designs for wireless products (WiFi chips)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: LiDAR Designs
+  * Toshiba
+  * Lead analog designs for LiDAR SoCs
+  
+* 2017-2019: Machine Learning System Designs
+  * Toshiba and Stanford
+  * Systems for efficient machine learning systems.
   
 Skills
 ======
