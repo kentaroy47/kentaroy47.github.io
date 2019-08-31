@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kentaro Yoshioka"
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   bio              : "ex. Stanford Visiting Scholar. I'm a Ph.D Hardware Researcher who make and use LiDARs."
   location         : "Tokyo/Japan"
   employer         : "Stanford Univ. Visiting Scholar"
