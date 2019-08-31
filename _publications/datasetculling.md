@@ -15,5 +15,5 @@ Dataset Culling filters out images that are easy to classify since they contribu
 
 [Download paper here](https://arxiv.org/abs/1902.00173)
 
-[Codes] (https://github.com/kentaroy47/DatasetCulling)
+[Codes](https://github.com/kentaroy47/DatasetCulling)
 
