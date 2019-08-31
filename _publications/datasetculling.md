@@ -1,9 +1,7 @@
-![Datasetculling](https://github.com/kentaroy47/kentaroy47.github.io/blob/master/images/dataset.PNG)
-
 ---
 title: "Dataset Culling: Towards Efficient Training Of Distillation-Based Domain Specific Models"
 collection: publications
-permalink: /publication/Dataset Culling
+permalink: /publication/datasetculling
 excerpt: 'We propose Dataset Culling: a pipeline to reduce the size of the dataset for training.'
 date: 2019-02-01
 venue: 'IEEE ICIP 2019'
@@ -17,3 +15,4 @@ Dataset Culling filters out images that are easy to classify since they contribu
 
 [Codes](https://github.com/kentaroy47/DatasetCulling)
 
+![Datasetculling](https://github.com/kentaroy47/kentaroy47.github.io/blob/master/images/dataset.PNG)
