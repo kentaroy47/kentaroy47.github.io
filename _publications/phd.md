@@ -6,6 +6,8 @@ date: 2019-09-13
 venue: 'Ph.D thesis.'
 ---
 
+[Download paper here](https://github.com/kentaroy47/kentaroy47.github.io/blob/master/_publications/yoshioka_thesis_print_20190806.pdf)
+
 **Abstract:**
 Along with CMOS scaling, wireless/wireline communication performances have greatly
 advanced. To realize a system on chip (SoC) for such products, high-performance
