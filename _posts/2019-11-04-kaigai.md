@@ -1,7 +1,7 @@
 ---
 title: '海外を目指す若者たちへ'
 date: 2019-11-04
-permalink: /posts/2019/11/kaigai/
+permalink: /posts/kaigai/
 tags:
   - 海外留学
 ---
