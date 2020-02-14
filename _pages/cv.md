@@ -17,26 +17,32 @@ Education
 
 Work experience
 ======
-* 2014-2016: ADC Designs
-  * Toshiba
+* 2014-2016: ADC Circuit Designs
+  * Toshiba Research Scientist
   * Lead ADC designs for wireless products (WiFi chips)
 
-* 2016-2018: LiDAR Designs
-  * Toshiba
+* 2016-2018: LiDAR System Designs
+  * Toshiba Research Scientist
   * Lead analog designs for LiDAR SoCs
   
 * 2017-2019: Machine Learning System Designs
-  * Toshiba and Stanford
+  * Stanford Visiting Scholar
   * Systems for efficient machine learning systems.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Competitive research skills (400 citations)
+https://scholar.google.co.jp/citations?user=jSxIrBEAAAAJ&hl=en&authuser=1
+
+* Distinguished hardware design skills
+
+Experience in 3 products (LiDARx2, WiFi)
+
+Publications in top-tier conferences (ISSCC,VLSI,ICIP)
+
+* Competitive data science skills (Kaggle Expert)
+https://www.kaggle.com/kyoshioka47
+
 
 Publications
 ======
@@ -56,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
